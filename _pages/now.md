@@ -8,15 +8,33 @@ nav: true
 This is a <strong>now page,</strong> It's a snapshot of what's going on in my life right now. Check out this page on <a href="https://nownownow.com/p/kZlB">nownownow.com</a> by <a href="https://sive.rs/">Derek Sivers</a>
 </p>
 
-*Updated May 5th, 2024*
-### Standing on the Rock Sermon Series
+*Updated November 19th, 2025*
 
-We're about half-way through a series on what it is to be "strong in the Lord." This series means so much to me personally as it's an attempt at verbalizing some of the study I've been doing in the background for a few months now.
+I didn't realize it had been over a year since my last update! Here are a few things going right now:
+### Veritas Baptist College
 
-The messages are available on [Sermon Audio](https://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=visionbaptist&keyword=Standing+on+the+Rock&keyworddesc=Standing+on+the+Rock)
+I'm in the middle of my third master's degree course at [Veritas Baptist College](https://www.vbc.edu) on academic research & writing. It's the hardest and best class yet. 
 
-### Camping Season us upon us!
+For a while I was stressed with the class (maybe I still am 🤪), but somewhere along the way I realized that I could change my mindset and consider it an opportunity to level-up my skills.
 
-We went on our first camping trip of the season a few weeks ago, Thaddeus & I plus a few friends camped at [River Forks campground](https://www.hallcounty.org/Facilities/Facility/Details/River-Forks-Park-11). Weather was spectacular and the s'mores were gooey, what more can you ask for?
+On the reading side of the class, I read some great books on research and writing:
 
-Next trip is to [Vogel State Park](https://gastateparks.org/Vogel), one of our all time favorites!
+- *Elements of Style* by Strunk & White
+- *From Topic to Thesis* by Michael Kibbe
+- *On Writing Well* by William Zinsser
+- *Writing to Learn* by William Zinsser
+- *Revising Prose* by Richard Lanham
+
+For my research topic and paper, I'm researching present aspects of glorification.
+
+### Keyboard Nerdiness
+
+I was dealing with quite a bit of neck/shoulder pain from extended sessions at the computer. In addition to exercise and stretching, I picked up a ZSA Moonlander split keyboard. The form factor helped with my pain and I've been working on some nerdy typing stuff:
+
+- Vim mode in Obsidian.
+- Updating my [moonlander layout](https://configure.zsa.io/moonlander/layouts/pXXEd/latest/0) with shortcut keys
+- Twitter/X keyboard shortcuts are awesome (Hit `?` to see all)
+
+#### New Responsibilities
+
+At church, I took on responsibility for the music ministry working with a great team of folks to lead and develop our church music.
