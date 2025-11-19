@@ -6,12 +6,13 @@ permalink: /uses
 ---
 Here are the tools that I rely on for my work.
 
-## Computer Setup
+## Computer
 
 - M1 Macbook Air 2020 (Since Jan 2021)
 - iPhone 11 (Since Oct 2020)
 	- Replaced Battery in Apr 2025
 - Asus ProArt monitor
+- ZSA Moonlander Keyboard
 
 ## Software
 
@@ -33,8 +34,7 @@ Here are the tools that I rely on for my work.
 
 - Fujifilm X-T4
 - Sigma 10-18mm
-- Fujifilm 16-55mm
+- Sigma 18-40mm
 - Fujifilm 50-140mm
-- Fujifilm 23mm
 - Fujifilm 56mm
 - Various lights, stands, and modifiers
