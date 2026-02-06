@@ -17,6 +17,7 @@ Here are the tools that I rely on for my work.
 ## Software
 
 - [Obsidian](https://obsidian.md) - for notes, study, task-management, and writing
+- [Drafts](https://getdrafts.com/) - for quick note capture on mobile
 - [Arc Browser](https://arc.net/)
 - [Affinity Suite](https://affinity.serif.com/en-us/) - for graphic design (Designer, Photo, Publisher)
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - for video editing
@@ -34,7 +35,7 @@ Here are the tools that I rely on for my work.
 
 - Fujifilm X-T4
 - Sigma 10-18mm
-- Sigma 18-40mm
+- Sigma 17-40mm
 - Fujifilm 50-140mm
 - Fujifilm 56mm
 - Various lights, stands, and modifiers
