@@ -10,22 +10,22 @@ This is a <strong>now page,</strong> It's a snapshot of what's going on in my li
 
 *Updated April 25th, 2026*
 
-The past few months:
+**The past few months:**
 - My dad passed away in January 😔
 - We moved to a new house in February. Enjoying more space and a yard.
 
-Focus:
+**Focus:**
 - Always working on improving my productivity, making best use of the time.
 - I've had fitness routines come and go over the years, building a routine that sticks.
 
-Reading:
+**Reading:**
 - Just finished *In Praise of Plodders* by Warren Wiersbe
 - Digging through *The Potter's Promise* by Leighton Flowers
 
-Thinking about:
+**Thinking about:**
 - Orientation, Disorientation, Reorientation
 - How does sharing Christ become more and more part of my life?
 
-Getting outdoors:
+**Getting outdoors:**
 - The weather is perfect for camping in North Georgia, want to get at least one more trip in before it gets hot!
 - Enjoying parks around Lake Lanier.
