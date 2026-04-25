@@ -8,33 +8,24 @@ nav: true
 This is a <strong>now page,</strong> It's a snapshot of what's going on in my life right now. Check out this page on <a href="https://nownownow.com/p/kZlB">nownownow.com</a> by <a href="https://sive.rs/">Derek Sivers</a>
 </p>
 
-*Updated November 19th, 2025*
+*Updated April 25th, 2026*
 
-I didn't realize it had been over a year since my last update! Here are a few things going right now:
-### Veritas Baptist College
+The past few months:
+- My dad passed away in January 😔
+- We moved to a new house in February. Enjoying more space and a yard.
 
-I'm in the middle of my third master's degree course at [Veritas Baptist College](https://www.vbc.edu) on academic research & writing. It's the hardest and best class yet. 
+Focus:
+- Always working on improving my productivity, making best use of the time.
+- I've had fitness routines come and go over the years, building a routine that sticks.
 
-For a while I was stressed with the class (maybe I still am 🤪), but somewhere along the way I realized that I could change my mindset and consider it an opportunity to level-up my skills.
+Reading:
+- Just finished *In Praise of Plodders* by Warren Wiersbe
+- Digging through *The Potter's Promise* by Leighton Flowers
 
-On the reading side of the class, I read some great books on research and writing:
+Thinking about:
+- Orientation, Disorientation, Reorientation
+- How does sharing Christ become more and more part of my life?
 
-- *Elements of Style* by Strunk & White
-- *From Topic to Thesis* by Michael Kibbe
-- *On Writing Well* by William Zinsser
-- *Writing to Learn* by William Zinsser
-- *Revising Prose* by Richard Lanham
-
-For my research topic and paper, I'm researching present aspects of glorification.
-
-### Keyboard Nerdiness
-
-I was dealing with quite a bit of neck/shoulder pain from extended sessions at the computer. In addition to exercise and stretching, I picked up a ZSA Moonlander split keyboard. The form factor helped with my pain and I've been working on some nerdy typing stuff:
-
-- Vim mode in Obsidian.
-- Updating my [moonlander layout](https://configure.zsa.io/moonlander/layouts/pXXEd/latest/0) with shortcut keys
-- Twitter/X keyboard shortcuts are awesome (Hit `?` to see all)
-
-#### New Responsibilities
-
-At church, I took on responsibility for the music ministry working with a great team of folks to lead and develop our church music.
+Getting outdoors:
+- The weather is perfect for camping in North Georgia, want to get at least one more trip in before it gets hot!
+- Enjoying parks around Lake Lanier.
